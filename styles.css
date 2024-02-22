@@ -1,4 +1,17 @@
 .recipes {
     color:goldenrod;
     font-family:'Times New Roman', Times, serif;
+    font-size:larger
+}
+.pesto {
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    margin-inline: px;
+    letter-spacing: 0.3px;
+}
+
+#title {
+    color:green;
+    letter-spacing:0.3px;
+    outline: 2px solid gray;
 }
